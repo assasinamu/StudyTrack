@@ -49,11 +49,9 @@ OOPS_PROJECT/
 │       ├── service/
 │       │   └── TaskManager.java
 │       └── storage/
-│           └── TaskStorage.java
-├── data/
-│   └── tasks.txt
-├── out/                 # Compiled class files; normally not committed
+│           └── TaskStorage.java                 
 └── README.md
+└── .gitignore
 ```
 
 The structure above describes the console version. If you have additional source files, such as a GUI class, keep them in the repository if they are part of the version you intend to publish.
