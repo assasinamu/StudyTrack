@@ -1,0 +1,12 @@
+# Compiled Java files
+out/
+*.class
+
+# Local test data
+data/tasks.txt
+
+# IDE configuration
+.vscode/
+
+# Operating system files
+.DS_Store
